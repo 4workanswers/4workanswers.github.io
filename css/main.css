@@ -102,3 +102,10 @@ h3 {
   margin-right: 300px;
   width: 100%;
 }
+
+.center3 {
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 100%;
+}
