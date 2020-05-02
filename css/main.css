@@ -88,3 +88,10 @@ h3 {
   color: #B22222;
   text-decoration: none;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
